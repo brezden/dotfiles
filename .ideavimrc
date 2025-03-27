@@ -1,0 +1,39 @@
+set scrolloff=5
+set number
+set relativenumber
+set incsearch
+
+map Q gq
+Plug 'machakann/vim-highlightedyank'
+Plug 'tpope/vim-commentary'
+
+let mapleader = ","
+
+map <leader>o <Action>(GotoFile)
+map <leader>b <Action>(RecentFilesSelectOpenedFile)
+map <leader>n <Action>(NextTab)
+map <leader>p <Action>(PreviousTab)
+map <leader>w <Action>(SaveAll)
+map <leader>q <Action>(CloseContent)
+map <leader>u <Action>(RecentFiles)
+map <leader>= <Action>(ReformatCode)
+map <leader>R <Action>(RenameElement)
+map <leader>f <Action>(FindUsages)
+map <leader>e <Action>(ActivateProjectToolWindow)
+map <leader>d <Action>(GotoDeclaration)
+map <leader>a <Action>(SearchEverywhere)
+map <leader>s <Action>(FileStructurePopup)
+
+map <leader>h <C-w>h
+map <leader>j <C-w>j
+map <leader>k <C-w>k
+map <leader>l <C-w>l
+
+map <leader>sh <Action>(SplitHorizontally)
+map <leader>sv <Action>(SplitVertically)
+
+map <leader>b <Action>(ToggleLineBreakpoint)
+map <leader>D <Action>(Debug)
+map <leader>r <Action>(Run)
+
+inoremap jj <Esc>

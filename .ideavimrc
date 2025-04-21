@@ -24,12 +24,12 @@ map <leader>d <Action>(GotoDeclaration)
 map <leader>a <Action>(SearchEverywhere)
 map <leader>s <Action>(FileStructurePopup)
 
+map <leader>j <C-d>
+map <leader>k <C-u>
+
 map <leader>h <C-w>h
-map <leader>j <C-w>j
-map <leader>k <C-w>k
 map <leader>l <C-w>l
 
-map <leader>sh <Action>(SplitHorizontally)
 map <leader>sv <Action>(SplitVertically)
 
 map <leader>b <Action>(ToggleLineBreakpoint)

@@ -11,3 +11,6 @@ echo "Linking Godot config"
 echo "Linking Ghostty config"
 [ ! -L ~/.config/ghostty ] && rm -rf ~/.config/ghostty && ln -s ~/dotfiles/ghostty ~/.config/ghostty
 
+echo "Linking Rider config"
+[ ! -L ~/.config/JetBrains/Rider2025.1 ] && rm -rf ~/.config/JetBrains/Rider2025.1 && ln -s ~/dotfiles/rider/ ~/.config/JetBrains/Rider2025.1
+

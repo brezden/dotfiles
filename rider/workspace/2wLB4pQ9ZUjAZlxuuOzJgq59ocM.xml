@@ -1,0 +1,328 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Godot-Peer-2-Peer-Steam-CSharp" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1ec4o5ajfjrjy">
+      <file>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"README.md","foregroundColor":-4473925,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,96,10,24,105,99,111,110,115,47,77,97,114,107,100,111,119,110,80,108,117,103,105,110,46,115,118,103,18,24,105,99,111,110,115,47,101,120,112,117,105,47,109,97,114,107,100,111,119,110,46,115,118,103,26,29,111,114,103,46,105,110,116,101,108,108,105,106,46,112,108,117,103,105,110,115,46,109,97,114,107,100,111,119,110,40,-33,-55,-17,-63,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/Multiplayer/Routers/SceneRouter.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="918">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <marker date="1745808569378" expanded="true" signature="6:42" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"SceneRouter.cs","foregroundColor":-4473925,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,92,10,30,114,101,115,104,97,114,112,101,114,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,18,36,114,101,115,104,97,114,112,101,114,47,101,120,112,117,105,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-118,-79,-68,-127,4,48,2]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Games/TankBattle/TankBattleInputManager.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="567">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <marker date="1745808569378" expanded="true" signature="60:115" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"TankBattleInputManager.cs","foregroundColor":-4473925,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"EFFECT_COLOR","value":"bc3f3c"}},{"name":"option","attributes":{"name":"EFFECT_TYPE","value":"2"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,92,10,30,114,101,115,104,97,114,112,101,114,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,18,36,114,101,115,104,97,114,112,101,114,47,101,120,112,117,105,47,80,115,105,67,83,104,97,114,112,47,67,115,104,97,114,112,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-118,-79,-68,-127,4,48,2]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "C#": {
+      "usageCount": 2,
+      "lastUsed": 1745811191845
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1745810787510
+    },
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1745810787483
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.Godot-Peer-2-Peer-Steam-CSharp/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="2" lastUsage="1745811191845" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1745810787512" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Autoload" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Games" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Games" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TankBattle" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Multiplayer" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Multiplayer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Factory" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Multiplayer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Interfaces" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Multiplayer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Routers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Multiplayer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Services" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Multiplayer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Types" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Scenes" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Scenes" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Lobby" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Scripts" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Scripts" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="UI" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Scripts" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="UI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Lobby" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Scripts" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="UI" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MainMenu" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Types" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Godot-Peer-2-Peer-Steam-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Games" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TankBattle" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TankBattleInputManager.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="false" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="944000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Commit" order="1" show_stripe_button="false" weight="0.25" />
+      <window_info id="Structure" order="2" show_stripe_button="false" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.16777344" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Notifications" order="0" show_stripe_button="false" weight="0.3298828" />
+      <window_info anchor="right" id="AIAssistant" order="1" show_stripe_button="false" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" show_stripe_button="false" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.16777344" right="0.3298828" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Notifications</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1112" y="351" width="470" height="681" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1745811046672">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="1112" y="351" width="470" height="681" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.2560.1388@0.0.2560.1388" timestamp="1745811046672" />
+    <state x="1138" y="430" width="424" height="518" key="FileChooserDialogImpl" timestamp="1745811052477">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="1138" y="430" width="424" height="518" key="FileChooserDialogImpl/0.0.2560.1388@0.0.2560.1388" timestamp="1745811052477" />
+    <state x="751" y="325" key="SettingsEditor" timestamp="1745811036330">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="751" y="325" key="SettingsEditor.ideScale=125" timestamp="1745811273467">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="751" y="325" key="SettingsEditor.ideScale=125/0.0.2560.1388@0.0.2560.1388" timestamp="1745811273467" />
+    <state x="751" y="325" key="SettingsEditor/0.0.2560.1388@0.0.2560.1388" timestamp="1745811036330" />
+    <state x="1132" y="629" width="437" height="124" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog" timestamp="1745811057556">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="1132" y="629" width="437" height="124" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog/0.0.2560.1388@0.0.2560.1388" timestamp="1745811057556" />
+    <state x="943" y="305" width="714" height="714" key="search.everywhere.popup" timestamp="1745811018792">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="943" y="305" width="735" height="714" key="search.everywhere.popup.ideScale=110" timestamp="1745811068867">
+      <screen x="0" y="0" width="2560" height="1388" />
+    </state>
+    <state x="943" y="305" width="735" height="714" key="search.everywhere.popup.ideScale=110/0.0.2560.1388@0.0.2560.1388" timestamp="1745811068867" />
+    <state x="943" y="305" width="714" height="714" key="search.everywhere.popup/0.0.2560.1388@0.0.2560.1388" timestamp="1745811018792" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Multiplayer/Routers/SceneRouter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <marker date="1745808569378" expanded="true" signature="6:42" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Games/TankBattle/TankBattleInputManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <marker date="1745808569378" expanded="true" signature="60:115" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

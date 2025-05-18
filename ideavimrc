@@ -11,8 +11,8 @@ let mapleader = ","
 
 map <leader>o <Action>(GotoFile)
 map <leader>b <Action>(RecentFilesSelectOpenedFile)
-map <leader>n <Action>(NextTab)
-map <leader>p <Action>(PreviousTab)
+map <leader>p <Action>(NextTab)
+map <leader>n <Action>(PreviousTab)
 map <leader>w <Action>(SaveAll)
 map <leader>q <Action>(CloseContent)
 map <leader>u <Action>(RecentFiles)

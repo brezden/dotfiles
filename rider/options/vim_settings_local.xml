@@ -2,38 +2,298 @@
   <component name="VimHistorySettings">
     <history>
       <history-cmd>
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">JXMvTW9kYWxTY2VuZURpcmVjdG9yeS9tb2RhbFNjZW5lRGlyZWN0b3J5L2c=</entry>
+        <entry encoding="base64">JXMvQmFzZVNjZW5lUGF0aC9iYXNlU2NlbmVQYXRoL2c=</entry>
+        <entry encoding="base64">JXMvX2hlYWRlci9IZWFkZXJMYWJlbC9n</entry>
+        <entry encoding="base64">JXMvX2Rlc2NyaXB0aW9uL0Rlc2NyaXB0aW9uTGFiZWwvZw==</entry>
+        <entry encoding="base64">JXMvbG9iYnlSZXN1bHQvbG9iYnkvZw==</entry>
+        <entry encoding="base64">JXMvX2xvYmJ5U2VydmljZS9Mb2JieVNlcnZpY2UvZw==</entry>
+        <entry encoding="base64" />
+        <entry encoding="base64">JXMvTG9iYnlTZXJ2aWNlL19sb2JieQ==</entry>
+        <entry encoding="base64">JXMvSW5zdGFuY2UuTG9iYnlTZXJ2aWNlL19sb2JieVNlcnZpY2UvZw==</entry>
+        <entry encoding="base64">eA==</entry>
         <entry encoding="base64">dw==</entry>
       </history-cmd>
+      <history-search>
+        <entry encoding="base64">XDx1bG9uZ1w+</entry>
+        <entry encoding="base64">TW9kYWxTY2VuZURpcmVjdG9yeQ==</entry>
+        <entry encoding="base64">QmFzZVNjZW5lUGF0aA==</entry>
+        <entry encoding="base64">X2hlYWRlcg==</entry>
+        <entry encoding="base64">X2Rlc2NyaXB0aW9u</entry>
+        <entry encoding="base64" />
+        <entry encoding="base64">bG9iYnlSZXN1bHQ=</entry>
+        <entry encoding="base64">X2xvYmJ5U2VydmljZQ==</entry>
+        <entry encoding="base64">SW5zdGFuY2UuTG9iYnlTZXJ2aWNl</entry>
+      </history-search>
     </history>
   </component>
   <component name="VimJumpsSettings">
     <project id="Godot-Peer-2-Peer-Steam-CSharp-153978ac">
+      <jump line="87" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="99" column="18" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="98" column="20" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="21" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/LobbyManager/LobbyManager.cs" protocol="file" />
+      <jump line="18" column="76" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/LobbyManager/LobbyManager.cs" protocol="file" />
+      <jump line="37" column="24" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Scenes/Lobby/LobbyMemberContainer.cs" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/LobbyManager/LobbyManager.cs" protocol="file" />
+      <jump line="51" column="8" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/LobbyManager/LobbyManager.cs" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/LobbyManager/LobbyManager.cs" protocol="file" />
+      <jump line="0" column="53" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/LobbyManager/LobbyManager.cs" protocol="file" />
+      <jump line="103" column="8" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="19" column="12" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Scenes/Lobby/LobbyMemberContainer.cs" protocol="file" />
+      <jump line="65" column="15" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Scripts/UI/Lobby/LobbyButtons.cs" protocol="file" />
+      <jump line="0" column="40" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="4" column="11" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="6" column="14" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="2" column="50" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="105" column="8" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="106" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="89" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="13" column="22" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.cs" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.cs" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.cs" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.cs" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Scenes/Lobby/LobbyMemberContainer.cs" protocol="file" />
+      <jump line="103" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/.editorconfig" protocol="file" />
+      <jump line="62" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/.editorconfig" protocol="file" />
+      <jump line="35" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/.editorconfig" protocol="file" />
+      <jump line="34" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/.editorconfig" protocol="file" />
+      <jump line="38" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/.editorconfig" protocol="file" />
+      <jump line="11" column="14" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.cs" protocol="file" />
+      <jump line="9" column="46" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.cs" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Chat.cs" protocol="file" />
+      <jump line="2" column="47" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Chat.cs" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Guest.cs" protocol="file" />
+      <jump line="2" column="45" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Guest.cs" protocol="file" />
+      <jump line="33" column="4" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Host.cs" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Chat.cs" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Host.cs" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.cs" protocol="file" />
+      <jump line="104" column="38" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="102" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Chat.cs" protocol="file" />
+      <jump line="23" column="16" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Chat.cs" protocol="file" />
+      <jump line="28" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Guest.cs" protocol="file" />
+      <jump line="21" column="16" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Guest.cs" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Host.cs" protocol="file" />
+      <jump line="32" column="16" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Host.cs" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Host.cs" protocol="file" />
+      <jump line="5" column="57" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Host.cs" protocol="file" />
+      <jump line="7" column="21" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Participant.cs" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Participant.cs" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Participant.cs" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Participant.cs" protocol="file" />
+      <jump line="37" column="17" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Participant.cs" protocol="file" />
+      <jump line="19" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Participant.cs" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/Gates/LobbyConnectionGate.cs" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.cs" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.cs" protocol="file" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/README.md" protocol="file" />
-      <jump line="19" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Routers/SceneRouter.cs" protocol="file" />
-      <jump line="7" column="86" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Routers/SceneRouter.cs" protocol="file" />
-      <jump line="1" column="27" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Routers/SceneRouter.cs" protocol="file" />
-      <jump line="0" column="12" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Routers/SceneRouter.cs" protocol="file" />
-      <jump line="4" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Routers/SceneRouter.cs" protocol="file" />
-      <jump line="5" column="23" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Routers/SceneRouter.cs" protocol="file" />
-      <jump line="29" column="48" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Routers/SceneRouter.cs" protocol="file" />
-      <jump line="31" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Routers/SceneRouter.cs" protocol="file" />
-      <jump line="4" column="13" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Games/TankBattle/TankBattleInputManager.cs" protocol="file" />
-      <jump line="1" column="6" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Games/TankBattle/TankBattleInputManager.cs" protocol="file" />
-      <jump line="3" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Games/TankBattle/TankBattleInputManager.cs" protocol="file" />
-      <jump line="17" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Games/TankBattle/TankBattleInputManager.cs" protocol="file" />
-      <jump line="13" column="56" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Games/TankBattle/TankBattleInputManager.cs" protocol="file" />
+      <jump line="45" column="2" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/README.md" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Guest.cs" protocol="file" />
+      <jump line="6" column="49" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Guest.cs" protocol="file" />
+      <jump line="29" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Guest.cs" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Utility.cs" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Host.cs" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Host.cs" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Host.cs" protocol="file" />
+      <jump line="92" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/.editorconfig" protocol="file" />
+      <jump line="80" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/.editorconfig" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Host.cs" protocol="file" />
+      <jump line="16" column="16" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Guest.cs" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Guest.cs" protocol="file" />
+      <jump line="12" column="5" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Guest.cs" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Guest.cs" protocol="file" />
+      <jump line="8" column="1" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Guest.cs" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Host.cs" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Host.cs" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/Gates/LobbyConnectionGate.cs" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/Gates/LobbyConnectionGate.cs" protocol="file" />
+      <jump line="109" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="59" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.cs" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.cs" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Utility.cs" protocol="file" />
+      <jump line="16" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.cs" protocol="file" />
+      <jump line="4" column="3" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Utility.cs" protocol="file" />
+      <jump line="40" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.cs" protocol="file" />
+      <jump line="7" column="15" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Utility.cs" protocol="file" />
+      <jump line="41" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.cs" protocol="file" />
+      <jump line="28" column="3" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Utility.cs" protocol="file" />
+      <jump line="110" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" protocol="file" />
+      <jump line="36" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/Gates/LobbyConnectionGate.cs" protocol="file" />
+      <jump line="110" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Transport/TransportManager.cs" protocol="file" />
+      <jump line="4" column="3" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Transport/TransportManager.Server.cs" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Transport/TransportManager.cs" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/.ideavimrc" protocol="file" />
     </project>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <localmarks>
-      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/README.md" timestamp="1745811068869">
-        <mark key="&quot;" line="0" column="1" />
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/.editorconfig" timestamp="1747589419039">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Transport/TransportManager.Server.cs" timestamp="1747589620477">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="4" column="3" />
+        <mark key="n" line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Guest.cs" timestamp="1747589372193">
+        <mark key="&quot;" line="29" column="0" />
+        <mark key="[" line="0" column="53" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="45" />
+      </file>
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Utility.cs" timestamp="1747589372205">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Chat.cs" timestamp="1747589507630">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="53" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="45" />
+      </file>
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/TransportManager.cs" timestamp="1747589504778">
+        <mark key="&quot;" line="7" column="37" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="100" column="45" />
+      </file>
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/LobbyManager/LobbyManager.Guest.cs" timestamp="1747283259343">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="29" column="4" />
+        <mark key="^" line="29" column="4" />
+        <mark key="." line="29" column="3" />
+      </file>
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Scripts/UI/Lobby/LobbyButtons.cs" timestamp="1747589506772">
+        <mark key="&quot;" line="7" column="33" />
+        <mark key="[" line="64" column="30" />
+        <mark key="]" line="64" column="67" />
+        <mark key="." line="64" column="66" />
+        <mark key="^" line="64" column="67" />
+      </file>
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/Gates/LobbyConnectionGate.cs" timestamp="1747589574945">
+        <mark key="p" line="36" column="0" />
+        <mark key="&quot;" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Chat.cs" timestamp="1747589372047">
+        <mark key="&quot;" line="19" column="16" />
+      </file>
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Host.cs" timestamp="1747589372081">
+        <mark key="&quot;" line="24" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Guest.cs" timestamp="1747589372060">
+        <mark key="&quot;" line="8" column="1" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Scenes/Lobby/LobbyMemberContainer.cs" timestamp="1747589372153">
+        <mark key="&quot;" line="1" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="4" />
+        <mark key="." line="32" column="3" />
+        <mark key="^" line="32" column="4" />
+      </file>
+      <file name="/" timestamp="1747284323587">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Host.cs" timestamp="1747589372214">
+        <mark key="&quot;" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Multiplayer/Services/Steam/Lobby/LobbyService.Participant.cs" timestamp="1747589372107">
+        <mark key="p" line="25" column="17" />
+        <mark key="&quot;" line="19" column="0" />
+        <mark key="n" line="25" column="17" />
+        <mark key="^" line="42" column="21" />
+      </file>
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/README.md" timestamp="1747284030333">
+        <mark key="&quot;" line="45" column="2" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1747589641640">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="13" />
+        <mark key="^" line="14" column="13" />
+        <mark key="." line="14" column="12" />
+      </file>
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.cs" timestamp="1747589571369">
+        <mark key="&quot;" line="15" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/Godot-Steam-Relay-Lobby/Core/Lobby/LobbyManager.Utility.cs" timestamp="1747589562734">
+        <mark key="&quot;" line="28" column="3" />
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="28" column="3" />
+        <mark key="^" line="28" column="4" />
       </file>
     </localmarks>
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">VHJhbnNwb3J0TWFuYWdlcl9TZXJ2ZXI=</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">VHJhbnNwb3J0TWFuYWdlcl9TZXJ2ZXI=</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">bg==</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">SW5zdGFuY2UuTG9iYnlTZXJ2aWNl</text>
+      </register>
+      <register name="0" type="CHARACTER_WISE">
+        <text encoding="base64">UmVnaXN0ZXJQYXJ0aWNpcGFudENhbGxiYWNr</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgVGFzazxMaXN0PEdsb2JhbFR5cGVzLlBsYXllckludml0ZT4+IEdldEluR2FtZUZyaWVuZHMoKQogICAgewogICAgICAgIHRyeQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIF9sb2JieVNlcnZpY2UuR2V0SW5HYW1lRnJpZW5kcygpOwogICAgICAgIH0KICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpCiAgICAgICAgewogICAgICAgICAgICBMb2dnZXIuRXJyb3IoJCJGYWlsZWQgdG8gZ2V0IG9ubGluZSBmcmllbmRzLiB7ZS5NZXNzYWdlfSIpOwogICAgICAgICAgICByZXR1cm4gVGFzay5Gcm9tUmVzdWx0KG5ldyBMaXN0PEdsb2JhbFR5cGVzLlBsYXllckludml0ZT4oKSk7CiAgICAgICAgfQogICAgfQo=</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBHYXRoZXJMb2JieU1lbWJlcnMoKQogICAgewogICAgICAgIHRyeQogICAgICAgIHsKICAgICAgICAgICAgTG9iYnlNZW1iZXJzRGF0YSA9IF9sb2JieVNlcnZpY2UuR2F0aGVyTG9iYnlNZW1iZXJzRGF0YSgpLlJlc3VsdDsKICAgICAgICAgICAgTG9nZ2VyLk5ldHdvcmsoJCJMb2JieSBtZW1iZXJzIGdhdGhlcmVkOiB7TG9iYnlNZW1iZXJzRGF0YS5QbGF5ZXJzLkNvdW50fSIpOwogICAgICAgICAgICBMb2JieUNvbm5lY3Rpb25HYXRlLk1hcmtMb2JieUluZm9ybWF0aW9uR2F0aGVyZWQoKTsKICAgICAgICB9CiAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBleCkKICAgICAgICB7CiAgICAgICAgICAgIExvZ2dlci5FcnJvcigkIltFUlItMDAzXSBGYWlsZWQgdG8gZ2V0IGxvYmJ5IG1lbWJlcnM6IHtleC5NZXNzYWdlfSIpOwogICAgICAgICAgICBTY2VuZU1hbmFnZXIuSW5zdGFuY2UuTW9kYWxNYW5hZ2VyLlJlbmRlckluZm9ybWF0aW9uTW9kYWwoCiAgICAgICAgICAgICAgICAiW0VSUi0wMDNdIEZhaWxlZCB0byBnYXRoZXIgbG9iYnkgbWVtYmVycyIsCiAgICAgICAgICAgICAgICBJbmZvcm1hdGlvbk1vZGFsVHlwZS5FcnJvciwKICAgICAgICAgICAgICAgICJBbiBlcnJvciBvY2N1cnJlZCB3aGlsZSBnYXRoZXJpbmcgbG9iYnkgbWVtYmVycy4gUGxlYXNlIHRyeSBhZ2Fpbi4iKTsKICAgICAgICAgICAgX2xvYmJ5U2VydmljZS5MZWF2ZUxvYmJ5KCk7CiAgICAgICAgICAgIFRyYW5zcG9ydE1hbmFnZXIuSW5zdGFuY2UuRGlzY29ubmVjdCgpOwogICAgICAgIH0KICAgIH0K</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name=":" type="CHARACTER_WISE">
         <text encoding="base64">dw==</text>
       </register>
@@ -41,7 +301,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
+      <last-search encoding="base64">XDx1bG9uZ1w+</last-search>
+      <last-substitute encoding="base64">SW5zdGFuY2UuTG9iYnlTZXJ2aWNl</last-substitute>
       <last-offset encoding="base64" />
+      <last-replace encoding="base64">X2xvYmJ5U2VydmljZQ==</last-replace>
+      <last-pattern encoding="base64">SW5zdGFuY2UuTG9iYnlTZXJ2aWNl</last-pattern>
       <last-dir encoding="base64">MQ==</last-dir>
       <show-last encoding="base64">ZmFsc2U=</show-last>
     </search>

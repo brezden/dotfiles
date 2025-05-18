@@ -140,3 +140,10 @@ editors/3d_gizmos/gizmo_colors/joint_body_a = Color(0.6, 0.8, 1, 1)
 editors/3d_gizmos/gizmo_colors/joint_body_b = Color(0.6, 0.9, 1, 1)
 editors/3d_gizmos/gizmo_colors/fog_volume = Color(0.5, 0.7, 1, 1)
 dotnet/editor/editor_path_optional = "/home/callum/.local/share/JetBrains/Toolbox/apps/rider/bin/rider.sh"
+metadata/script_setup_templates_dictionary = {
+"AnimatedSprite2D": "0NodeDefault",
+"Button": "0NodeDefault",
+"Control": "0NodeDefault",
+"Node": "0NodeDefault",
+"Panel": "0NodeDefault"
+}

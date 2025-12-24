@@ -8,9 +8,12 @@ echo "Linking .ideavimrc"
 echo "Linking Godot config"
 [ ! -L ~/.config/godot ] && rm -rf ~/.config/godot && ln -s ~/dotfiles/godot ~/.config/godot
 
+echo "Linking .bashrc"
+[ ! -L ~/bash/.bashrc ] && rm -f ~/.bashrc && ln -s ~/bash/.bashrc ~/.bashrc
+
+echo "Linking nvim config"
+[ ! -L ~/.config/nvim ] && rm -rf ~/.config/nvim && ln -s ~/dotfiles/nvim ~/.config/nvim
+
 echo "Linking Ghostty config"
 [ ! -L ~/.config/ghostty ] && rm -rf ~/.config/ghostty && ln -s ~/dotfiles/ghostty ~/.config/ghostty
-
-echo "Linking Rider config"
-[ ! -L ~/.config/JetBrains/Rider2025.1 ] && rm -rf ~/.config/JetBrains/Rider2025.1 && ln -s ~/dotfiles/rider/ ~/.config/JetBrains/Rider2025.1
 

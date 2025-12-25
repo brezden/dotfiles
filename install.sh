@@ -8,8 +8,8 @@ echo "Linking .ideavimrc"
 echo "Linking Godot config"
 [ ! -L ~/.config/godot ] && rm -rf ~/.config/godot && ln -s ~/dotfiles/godot ~/.config/godot
 
-echo "Linking .bashrc"
-[ ! -L ~/bash/.bashrc ] && rm -f ~/.bashrc && ln -s ~/bash/.bashrc ~/.bashrc
+echo "Linking .bash aliases"
+[ ! -L ~/.bash_aliases ] && rm -f ~/.bash_aliases && ln -s ~/dotfiles/.bash_aliases ~/.bash_aliases
 
 echo "Linking nvim config"
 [ ! -L ~/.config/nvim ] && rm -rf ~/.config/nvim && ln -s ~/dotfiles/nvim ~/.config/nvim
